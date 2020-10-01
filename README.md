@@ -1,4 +1,4 @@
-# [Handcrafted](https://hand.engineering/handcrafted) for Terminal.app
+# [Handcrafted](https://hand.engineering/handcrafted) Theme for Terminal.app
 
 ![handcrafted](https://github.com/lewisflude/HandcraftedTerminalApp/raw/main/images/handcrafted-banner-half.png)
 
